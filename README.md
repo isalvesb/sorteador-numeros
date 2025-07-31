@@ -48,16 +48,17 @@ O **Sorteador de Números** é uma aplicação web interativa criada durante o c
 
 ## 📷 Prévia
 
-<img src="https://user-images.githubusercontent.com/0000000/seu-screenshot.png" alt="Preview do app"/>
+<img width="1366" height="711" alt="screencapture-sorteador-numeros-ochre-vercel-app-2025-07-31-19_28_47" src="https://github.com/user-attachments/assets/4877a70c-28b8-49a4-9312-18984dd9db2e" />
+
 
 ---
 
 ## 👩‍💻 Desenvolvido por
 
 <a href="https://github.com/isalvesb">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100px;" alt="Isa Alves"/>
+  <img src="https://avatars.githubusercontent.com/u/168914434?v=4" width="100px;" alt="Isa Alves"/>
   <br/>
-  <sub><b>Isa Alves</b></sub>
+  <p>Isa Alves</p>
 </a>
 
 ---
