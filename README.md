@@ -2,7 +2,7 @@
   🔢 Sorteador de Números
 </h1>
 
-<p align="center">
+<p>
   Uma aplicação simples feita para sortear números aleatórios, desenvolvida como parte do curso da Alura.
 </p>
 
