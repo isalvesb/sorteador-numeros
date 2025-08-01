@@ -53,16 +53,6 @@ O **Sorteador de Números** é uma aplicação web interativa criada durante o c
 
 ---
 
-## 👩‍💻 Desenvolvido por
-
-<a href="https://github.com/isalvesb">
-  <img src="https://avatars.githubusercontent.com/u/168914434?v=4" width="100px;" alt="Isa Alves"/>
-  <br/>
-  <p>Isa Alves</p>
-</a>
-
----
-
 ## 👨‍🏫 Ministrado por
 
 | [![Jacqueline Oliveira](https://github.com/jacqueline-oliveira.png?size=100)](https://github.com/jacqueline-oliveira) | [![Rodrigo Ferreira Caneppele](https://github.com/rcaneppele.png?size=100)](https://github.com/rcaneppele) |
